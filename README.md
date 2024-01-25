@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EsJay, Shiraz Javed.
-- 👀 I’m interested in blockchain and the metaverse.
+- 👀 I’m interested in website development, data analysis, and Artificial Intelligence.
 - 🌱 I’m currently learning ... HTML, CSS, Javascript, Typescript, Tailwind, ChakraUI, Shadcn, React, NodeJS , NextJS, PostgresSQL, and AWS.
 - 💞️ I’m looking to collaborate on... HTML, CSS, Javascript, Typescript, Tailwind, ChakraUI, Shadcn, React, NodeJS, NextJS, PostgresSQL, and AWS.
 - 📫 How to reach me ... shiraz.javed.farooq@gmail.com
